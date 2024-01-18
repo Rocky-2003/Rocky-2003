@@ -15,8 +15,8 @@ I'm a passionate Frontend Developer with a focus on creating engaging and user-f
 ## 🚀 Projects
 
 ### Project 1: SunDown Studio Clone 
-Live Link: [(https://sundown-webpage.netlify.app/)]
-GitHub: https:[(//github.com/Rocky-2003/SunDown-webpage)]
+Live Link: https://sundown-webpage.netlify.app/
+GitHub: https: //github.com/Rocky-2003/SunDown-webpage
 
 - This project is one of my major project.
 - Technologies used: Html, CSS, JavaScript
