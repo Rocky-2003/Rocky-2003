@@ -1,4 +1,8 @@
 
+# Hi there! 👋 I'm Rocky Mor
+
+I'm a passionate front-end developer with a focus on creating engaging and user-friendly web applications. Here's a glimpse of what I bring to the table:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rockymor) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rockymor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rockymor2003) 
 
@@ -12,19 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rocky-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Hi there! 👋 I'm Rocky Mor
-
-I'm a passionate Frontend Developer with a focus on creating engaging and user-friendly web applications. Here's a glimpse of what I bring to the table:
-
-## 💼 Skills
-
-- Languages: HTML, CSS, JavaScript
-- Build Tools: npm, Parcel
-- Version Control: Git, GitHub
-- Responsive Design: Ensuring seamless user experiences across devices
-- Project Management: Experience in handling projects from concept to deployment
 
 ## 🚀 Projects
 
